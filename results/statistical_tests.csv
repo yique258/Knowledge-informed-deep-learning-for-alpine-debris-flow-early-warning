@@ -1,0 +1,19 @@
+﻿split,comparison,metric,baseline_mean,pi_mean,delta,t_stat,p_value,significant_0.05
+0.2,PI-LSTM vs LSTM,overall_accuracy,0.6666,0.6674,0.0008,0.128,0.898,no
+0.2,PI-LSTM vs LSTM,cv_val_acc_mean,0.7218,0.6765,-0.0453,-9.959,0.0,YES
+0.2,PI-LSTM vs LSTM,test_auc,0.7479,0.7478,-0.0002,-0.023,0.982,no
+0.2,PI-LSTM (global) vs LSTM,overall_accuracy,0.6666,0.6818,0.0153,2.487,0.014,YES
+0.2,PI-LSTM (global) vs LSTM,cv_val_acc_mean,0.7218,0.6839,-0.0378,-8.295,0.0,YES
+0.2,PI-LSTM (global) vs LSTM,test_auc,0.7479,0.7557,0.0078,1.124,0.262,no
+0.3,PI-LSTM vs LSTM,overall_accuracy,0.6685,0.6658,-0.0027,-0.427,0.67,no
+0.3,PI-LSTM vs LSTM,cv_val_acc_mean,0.7085,0.6653,-0.0432,-7.947,0.0,YES
+0.3,PI-LSTM vs LSTM,test_auc,0.7348,0.7301,-0.0047,-0.649,0.517,no
+0.3,PI-LSTM (global) vs LSTM,overall_accuracy,0.6685,0.6817,0.0133,2.178,0.031,YES
+0.3,PI-LSTM (global) vs LSTM,cv_val_acc_mean,0.7085,0.668,-0.0405,-7.506,0.0,YES
+0.3,PI-LSTM (global) vs LSTM,test_auc,0.7348,0.7403,0.0055,0.79,0.43,no
+0.4,PI-LSTM vs LSTM,overall_accuracy,0.6593,0.644,-0.0153,-2.488,0.014,YES
+0.4,PI-LSTM vs LSTM,cv_val_acc_mean,0.7116,0.6622,-0.0495,-8.78,0.0,YES
+0.4,PI-LSTM vs LSTM,test_auc,0.7233,0.7049,-0.0185,-2.398,0.017,YES
+0.4,PI-LSTM (global) vs LSTM,overall_accuracy,0.6593,0.6531,-0.0062,-0.905,0.367,no
+0.4,PI-LSTM (global) vs LSTM,cv_val_acc_mean,0.7116,0.6647,-0.047,-8.029,0.0,YES
+0.4,PI-LSTM (global) vs LSTM,test_auc,0.7233,0.7174,-0.006,-0.76,0.448,no
