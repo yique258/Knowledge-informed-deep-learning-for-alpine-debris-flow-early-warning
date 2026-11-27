@@ -6,14 +6,18 @@ Code and data accompanying the manuscript submitted to *Computers & Geosciences*
 The repository contains the full training / cross-validation pipeline, the
 hourly ensemble inference used for the 2026 early-warning experiment, and the
 input data needed to reproduce both.
-```
-<img width="305" height="124" alt="image" src="https://github.com/user-attachments/assets/ceaa3c35-9d35-43c0-8d03-654257676cbc" />
-Fig. 4. I–D (top) and E–D (bottom) relationships for (a, b) rainfall-, (c, d) melt-, and (e, f) rainfall–meltwater-triggered DFs. Orange dots: compound triggers; red dots: melt triggers; blue dots: rainfall triggers.
-```
-```
-<img width="305" height="113" alt="image" src="https://github.com/user-attachments/assets/55fe64ba-1af0-440e-81a1-1783e06ebb05" />
+
+
+<p align="center">
+  <img src="figures/fig4_ed_curves.png" width="620" alt="I–D and E–D thresholds">
+</p>
+Fig. 4. I–D (top) and E–D (bottom) relationships for rainfall-, melt- and rainfall–meltwater-triggered DFs.
+
+<p align="center">
+  <img width="305" height="113" alt="image" src="https://github.com/user-attachments/assets/55fe64ba-1af0-440e-81a1-1783e06ebb05" />
+</p>
 Fig. 6. Hourly ensemble score forecasts of the KI-LSTM model. Forecast for the period from June 1 to August 31, 2026.
-```
+
 
 ## Layout
 
