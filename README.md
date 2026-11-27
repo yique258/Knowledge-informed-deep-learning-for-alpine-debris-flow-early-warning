@@ -9,7 +9,7 @@ input data needed to reproduce both.
 
 
 <p align="center">
-  <img src="figures/fig4_ed_curves.png" width="620" alt="I–D and E–D thresholds">
+  <img width="305" height="124" alt="image" src="https://github.com/user-attachments/assets/d0af6c2c-1e00-4844-bf9e-83cfccfdbc8d" />
 </p>
 Fig. 4. I–D (top) and E–D (bottom) relationships for rainfall-, melt- and rainfall–meltwater-triggered DFs.
 
